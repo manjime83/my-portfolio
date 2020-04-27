@@ -11,7 +11,7 @@ const App: React.FC<{}> = () => {
   return (
     <div>
       <main className="overflow--auto">
-        <h1 className="color--skyBlue section__heading--largest">MANUEL JIMÉNEZ</h1>
+        <h1 className="color--skyBlue section__heading--largest">MANUEL JIMÉNEZ - REACT VERSION</h1>
 
         <ul className="section--social">
           <li className="socialWrapper">
